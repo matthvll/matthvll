@@ -17,7 +17,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
 
-
+[![matthvll GitHub stats](https://github-readme-stats.vercel.app/api?username=matthvll)](https://github.com/matthvll/github-readme-stats)
+     
+     
 - Thanks for visiting.
 
 - Enjoy it!! o/
