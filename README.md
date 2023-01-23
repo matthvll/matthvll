@@ -1,17 +1,26 @@
-# Welcome!
+# Hey, hello and Welcome!
 
-## I'm Matheus Villar!
-
-:computer: I'm going to be a full stack developer
+## I'm Matheus Villar
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:computer: I'm learning to be a full stack developer
 
-:outbox_tray: 2023 Goals: create a new project and find a new job.
+:books: I’m currently learning Python and PHP
 
-## About me
+2023 Goals: Improve my English and programming skills 📈
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true" />
+</picture>
 
   
-- Thanks for visiting.
+Thanks for your visit.
