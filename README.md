@@ -14,8 +14,6 @@
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000"
-
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true"
