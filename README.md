@@ -23,4 +23,4 @@
 </picture>
 
   
-Thanks for your visit.
+Thanks for your visit..
