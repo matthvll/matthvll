@@ -25,5 +25,3 @@
   
 Thanks for your visit..
 
-[!(https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/matthvll/github-readme-stats#gh-dark-mode-only)
-[!(https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/matthvll/github-readme-stats#gh-light-mode-only)
