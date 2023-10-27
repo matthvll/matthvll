@@ -10,7 +10,7 @@
 
 2023 Goals: Improve my English and programming skills 📈
 
-[![My Statics ](https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true&theme=dracula)
+[My Statics ](https://github-readme-stats.vercel.app/api?username=matthvll&show_icons=true&theme=dracula)
   
 Thanks for your visit..
 
